@@ -91,7 +91,7 @@
     <text x="143" y="63" text-anchor="middle" class="label small">杯</text>
   </g>
   <text x="997" y="536" text-anchor="middle" class="label medium">第一晚旅馆</text>
-  <text x="997" y="560" text-anchor="middle" class="label note">名称待确认</text>
+  <text x="997" y="560" text-anchor="middle" class="label note">名称尚未记录</text>
 
   <!-- Distance annotation. -->
   <path d="M665 590 H932" stroke="#202629" stroke-width="2"/>
