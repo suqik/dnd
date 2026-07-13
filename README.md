@@ -17,18 +17,18 @@
 | 项目 | 当前值 |
 |---|---|
 | 游戏内日期 | 第 2 天 |
-| 当前地点 | 城外河边小树林短休中 |
+| 当前地点 | Nym 与蛋蛋已返回神源镇内旅馆；Kael 此前留在女神像附近协助巡逻队清洗雕像；众人与马特约定稍后在旅馆见面 |
 | 小队名称 | KEN |
 | 队长 | 尼姆·铜星 Nym Copperstar |
 | 成员 | [Nym](characters/nym-copperstar.md)、[蛋蛋](characters/egg_cleric.md)、[凯恩·铁心 Kael Ironheart](characters/kael-ironheart.md) |
 | 队伍构成 | 三名外来玩家角色（均非本地人） |
-| 当前主线方向 | 导师线索原指向东北；出城后短暂向东北，随后沿脚印转向北方 |
+| 当前主线方向 | 已知托比厄斯·星眠在护卫遭袭后逃往北方观测站旧址；小队现已带着他留下的星象盘返回神源镇 |
 
 ## 角色快照
 
-| 角色 | 职业 | 等级 | 总经验 / 3 级门槛 | 当前 HP |
+| 角色 | 职业 | 等级 | 总经验 / 下一级门槛 | 当前 HP |
 |---|---|---:|---:|---:|
-| [Nym](characters/nym-copperstar.md) | 法师 Wizard | 2 | 731 / 900 | 14 / 14 |
+| [Nym](characters/nym-copperstar.md) | 预言法师 Diviner | 3 | 1142 / 2700 | 20 / 20 |
 | [蛋蛋](characters/egg_cleric.md) | 牧师 Cleric | 2 | 736 / 900 | 19 / 19 |
 | [凯恩·铁心 Kael Ironheart](characters/kael-ironheart.md) | 战士 Fighter | 2 | 760 / 900 | 20 / 24 |
 
