@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
   <title id="title">小镇东北城门外追踪地图</title>
-  <desc id="desc">KEN小队从小镇东北城门出发，先向东北走了一小段，发现战斗痕迹和脚印后转向北方，沿脚印行进数公里后抵达与僵尸战斗的河流。战斗后，小队沿转向北方的河流行进一段并渡河抵达雇佣兵营地；Nym导师原计划前往的观测站位于营地北方，距离未知。城市东方另有近期黑潮战场。</desc>
+  <desc id="desc">KEN小队从小镇东北城门出发，先向东北走了一小段，发现战斗痕迹和脚印后转向北方，沿脚印行进数公里后抵达与僵尸战斗的河流。战斗后，小队沿转向北方的河流行进一段并渡河抵达雇佣兵营地；Nym在营地战斗与调查后完成短休，随后小队返城。Nym导师原计划前往的观测站位于营地北方，距离未知。城市东方另有近期黑潮战场。</desc>
   <defs>
     <pattern id="fog" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(28)">
       <rect width="22" height="22" fill="#e8eaeb"/>
@@ -128,7 +128,7 @@
     <rect x="47" y="62" width="24" height="38" fill="#77543d" stroke="#4f3628" stroke-width="3"/>
   </g>
   <text x="515" y="166" text-anchor="end" class="label medium">雇佣兵营地与小屋</text>
-  <text x="515" y="193" text-anchor="end" class="label note">已探明 · 过河后抵达</text>
+  <text x="515" y="193" text-anchor="end" class="label note">已探明 · 过河抵达 · Nym 短休后返城</text>
 
   <!-- The observatory direction is known, but the route and distance are not. -->
   <path d="M590 95 V32" fill="none" stroke="#555d60" stroke-width="4" stroke-dasharray="9 8" marker-end="url(#unknownArrow)"/>
