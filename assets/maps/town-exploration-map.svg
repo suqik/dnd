@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
   <title id="title">小镇探索地图</title>
-  <desc id="desc">以小镇中心的厄拉西斯神殿、东侧集市与旅馆为已探明地标，标注城墙、正式东北城门、东北方向的导师线索和东部黑潮战区。未探明区域以斜线表示。</desc>
+  <desc id="desc">以小镇中心的厄拉西斯神殿、东侧集市与旅馆为已探明地标，标注城墙、正式东北城门、东北方向的导师线索和城市东方的近期黑潮战场。黑潮战场用贯穿地图东侧的方向带表示，其南北边界和具体范围未知；未探明区域以斜线表示。</desc>
   <defs>
     <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
       <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#c9c7bd" stroke-width="1" opacity="0.45"/>
@@ -36,14 +36,15 @@
   <path d="M25 25 H1375 V185 C1215 158 1090 202 930 165 C760 126 625 193 440 164 C275 138 145 178 25 150 Z" fill="url(#fog)"/>
   <path d="M25 180 C180 205 305 162 455 192 C635 228 770 167 935 205 C1095 242 1230 194 1375 220" fill="none" stroke="#6c7275" stroke-width="4" stroke-dasharray="13 12"/>
 
-  <!-- Approximate eastern war-affected area. -->
-  <path d="M1375 235 V655 C1330 625 1280 650 1240 610 C1205 575 1230 525 1200 480 C1175 440 1195 390 1225 345 C1260 292 1310 260 1375 235 Z" fill="url(#fog)"/>
-  <path d="M1375 242 V648 C1334 618 1285 642 1247 604 C1213 570 1238 520 1208 477 C1185 441 1203 395 1233 351 C1268 300 1315 268 1375 242 Z" fill="#394246" opacity="0.42"/>
-  <path d="M1375 655 C1330 625 1280 650 1240 610 C1205 575 1230 525 1200 480 C1175 440 1195 390 1225 345 C1260 292 1310 260 1375 235" fill="none" stroke="#6c7275" stroke-width="4" stroke-dasharray="13 12"/>
-  <text x="1290" y="475" text-anchor="middle" class="label medium light" style="fill:#f7f4ea">城市东方</text>
-  <text x="1290" y="506" text-anchor="middle" class="label medium light" style="fill:#f7f4ea">近期黑潮战场</text>
-  <text x="1290" y="537" text-anchor="middle" class="label small light" style="fill:#f7f4ea">最近刚发生战斗</text>
-  <text x="1290" y="564" text-anchor="middle" class="label small light" style="fill:#f7f4ea">与东北线索不同</text>
+  <!-- Broad eastern war zone; the band communicates direction, not surveyed extent. -->
+  <path d="M1165 25 H1375 V875 H1178 C1200 806 1160 740 1188 665 C1215 592 1170 525 1195 450 C1220 375 1175 305 1195 230 C1216 155 1175 88 1165 25 Z" fill="url(#fog)"/>
+  <path d="M1173 25 H1375 V875 H1186 C1208 807 1168 742 1196 668 C1223 595 1178 528 1203 453 C1228 378 1183 308 1203 233 C1224 158 1183 90 1173 25 Z" fill="#394246" opacity="0.48"/>
+  <path d="M1165 25 C1175 88 1216 155 1195 230 C1175 305 1220 375 1195 450 C1170 525 1215 592 1188 665 C1160 740 1200 806 1178 875" fill="none" stroke="#6c7275" stroke-width="4" stroke-dasharray="13 12"/>
+  <text x="1285" y="495" text-anchor="middle" class="label medium light" style="fill:#f7f4ea">城市东方</text>
+  <text x="1285" y="526" text-anchor="middle" class="label medium light" style="fill:#f7f4ea">近期黑潮战场</text>
+  <text x="1285" y="557" text-anchor="middle" class="label small light" style="fill:#f7f4ea">东侧阴影仅表示方位</text>
+  <text x="1285" y="584" text-anchor="middle" class="label small light" style="fill:#f7f4ea">南北边界与范围未知</text>
+  <text x="1285" y="611" text-anchor="middle" class="label small light" style="fill:#f7f4ea">与东北导师线索不同</text>
 
   <!-- The wall is confirmed; its exact surveyed shape remains approximate. -->
   <path d="M178 300 C275 229 430 220 555 258 C690 205 870 224 963 292 C1091 298 1195 385 1180 493 C1210 600 1094 692 962 687 C840 754 662 729 570 695 C420 744 262 676 229 583 C121 520 103 383 178 300 Z"
@@ -115,7 +116,7 @@
     <path d="M0 -60 L13 -10 L0 0 L-13 -10 Z" fill="#8b3d2e"/>
     <path d="M0 60 L13 10 L0 0 L-13 10 Z" fill="#9da6a8"/>
     <path d="M-60 0 L-10 -13 L0 0 L-10 13 Z M60 0 L10 -13 L0 0 L10 13 Z" fill="#9da6a8"/>
-    <text x="0" y="-83" text-anchor="middle" class="label medium">北</text>
+    <text x="0" y="-83" text-anchor="middle" class="label medium" style="fill:#f7f4ea">北</text>
   </g>
 
   <!-- Legend. -->
@@ -132,5 +133,5 @@
     <text x="53" y="158" class="label small">已确认存在的城墙</text>
   </g>
 
-  <text x="1335" y="852" text-anchor="end" class="label note">玩家探索图 · 方位与距离为当前认知，不代表精确测绘</text>
+  <text x="1135" y="852" text-anchor="end" class="label note">玩家探索图 · 方位与距离为当前认知，不代表精确测绘</text>
 </svg>

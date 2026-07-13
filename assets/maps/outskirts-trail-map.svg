@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
   <title id="title">小镇东北城门外追踪地图</title>
-  <desc id="desc">KEN小队从小镇东北城门出发，先向东北走了一小段，发现战斗痕迹和脚印后转向北方，沿脚印行进数公里后抵达与僵尸战斗的河流。战斗后，小队沿转向北方的河流行进一段并渡河抵达雇佣兵营地；Nym在营地战斗与调查后完成短休，随后小队返城。Nym导师原计划前往的观测站位于营地北方，距离未知。城市东方另有近期黑潮战场。</desc>
+  <desc id="desc">KEN小队从小镇东北城门出发，先向东北走了一小段，发现战斗痕迹和脚印后转向北方，沿脚印行进数公里后抵达与僵尸战斗的河流；河流在此向北弯折。战斗后，小队沿河向北行进一段并渡河抵达雇佣兵营地；Nym在营地战斗与调查后完成短休，随后小队返城。Nym导师原计划前往的观测站位于营地北方，距离未知。近期黑潮战场位于城市东方，图中用贯穿东侧的方向带表示。</desc>
   <defs>
     <pattern id="fog" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(28)">
       <rect width="22" height="22" fill="#e8eaeb"/>
@@ -40,8 +40,9 @@
   <!-- Broad eastern war zone; its north-south boundaries remain unknown. -->
   <path d="M1160 24 H1376 V876 H1170 C1190 800 1152 730 1182 650 C1210 575 1165 510 1192 430 C1218 350 1168 285 1190 205 C1210 132 1170 82 1160 24 Z" fill="url(#warFog)"/>
   <text x="1275" y="405" text-anchor="middle" class="label medium light" style="fill:#f7f4ea">东方近期黑潮战场</text>
-  <text x="1275" y="435" text-anchor="middle" class="label small light" style="fill:#f7f4ea">南北边界与具体范围未知</text>
-  <text x="1275" y="462" text-anchor="middle" class="label small light" style="fill:#f7f4ea">与本次脚印路线的关系未知</text>
+  <text x="1275" y="435" text-anchor="middle" class="label small light" style="fill:#f7f4ea">东侧阴影仅表示方位</text>
+  <text x="1275" y="462" text-anchor="middle" class="label small light" style="fill:#f7f4ea">南北边界与具体范围未知</text>
+  <text x="1275" y="489" text-anchor="middle" class="label small light" style="fill:#f7f4ea">与本次脚印路线的关系未知</text>
 
   <!-- Explored corridor clears part of the fog without claiming the whole region. -->
   <path d="M236 729 C300 674 340 642 390 620 C454 592 485 550 492 501 C500 452 478 415 505 371 C524 339 542 319 568 306"
