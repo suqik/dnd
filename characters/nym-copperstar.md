@@ -46,7 +46,7 @@
 | 阵营 Alignment | 中立善良 Neutral Good (NG) |
 | 阵营倾向记录 | 中立 +1、善良 +1 |
 | 等级 Level | 3 |
-| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 1063 / 2700 |
+| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 1083 / 2700 |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 小型 Small |
 | 速度 Speed | 30 尺 |
@@ -371,6 +371,7 @@
 | 第 2 天 | 获得经验 | XP +10，总 XP 913 |
 | 第 2 天 | 以 2 环法术位升环施放魔法飞弹 Magic Missile | 2 环法术位 -1，当前 1 / 2；产生 4 枚飞弹 |
 | 第 2 天 | 获得经验 | XP +150，总 XP 1063 |
+| 第 2 天 | 获得经验 | XP +20，总 XP 1083 |
 
 ## 已确认项
 
