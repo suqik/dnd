@@ -48,7 +48,7 @@
 | 阵营 Alignment | 中立善良 Neutral Good (NG) |
 | 阵营倾向记录 | 中立 +3、善良 +3、混乱 +5 |
 | 等级 Level | 4 |
-| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 2854 / 6500 |
+| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 2914 / 6500 |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 小型 Small |
 | 速度 Speed | 30 尺 |
@@ -479,6 +479,7 @@
 | 第 4 天，具体时段未记录 | 选择 4 级新增法术 | 隐形术 Invisibility、魅影之力 Phantasmal Force；后者可与心灵裂片 Mind Sliver 的下一次豁免减值配合 |
 | 第 4 天，具体时段未记录 | 使用预兆骰 | 使用结果为 6 的预兆骰；剩余预兆骰为 11 |
 | 第 4 天，具体时段未记录 | 获得经验 | XP +150，总 XP 2854 |
+| 第 4 天，具体时段未记录 | 获得经验 | XP +60，总 XP 2914 |
 
 ## 已确认项
 
