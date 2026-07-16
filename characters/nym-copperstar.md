@@ -48,7 +48,7 @@
 | 阵营 Alignment | 中立善良 Neutral Good (NG) |
 | 阵营倾向记录 | 中立 +3、善良 +3、混乱 +5 |
 | 等级 Level | 3 |
-| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 2061 / 2700 |
+| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 2109 / 2700 |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 小型 Small |
 | 速度 Speed | 30 尺 |
@@ -456,6 +456,7 @@
 | 第 3 天，具体时段未记录 | 获得经验 | XP +350，总 XP 2022 |
 | 第 3 天，具体时段未记录 | 获得金币 | GP +2，当前 GP 21 |
 | 第 3 天，具体时段未记录 | 获得经验 | XP +39，总 XP 2061 |
+| 第 3 天，具体时段未记录 | 获得经验 | XP +48，总 XP 2109 |
 
 ## 已确认项
 
