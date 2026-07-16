@@ -6,12 +6,12 @@
 |---|---|
 | 游戏内日期 In-game Day | 第 4 天早晨 |
 | 当前地点 Current Location | 厄拉西斯神殿内（已获准一窥黑暗之书抄本） |
-| 当前生命值 Hit Points (HP) | 20 / 20（最近一次长休后恢复） |
+| 当前生命值 Hit Points (HP) | 30 / 30（4 级升级结算时沿用既有 DM 裁定回满） |
 | 临时生命值 Temporary Hit Points | 9（来自已施放的虚假生命 False Life；在耗尽或完成下一次长休时失去） |
 | 护甲等级 Armor Class (AC) | 14（法师护甲 Mage Armor 已施放；剩余持续时间待记录） |
-| 生命骰 Hit Dice | 3d6，已用 0 |
+| 生命骰 Hit Dice | 4d6，已用 0 |
 | 1 环法术位 1st-level Spell Slots | 3 / 4 |
-| 2 环法术位 2nd-level Spell Slots | 2 / 2 |
+| 2 环法术位 2nd-level Spell Slots | 3 / 3 |
 | 奥术回复 Arcane Recovery | 可用；本次长休后恢复使用次数 |
 | 预兆 Portent | 本次长休掷出 11、6；均未使用 |
 | 魔法启蒙（法师）Magic Initiate (Wizard) 免费护盾术 Shield | 可用 |
@@ -47,8 +47,8 @@
 | 背景 Background | 贤者 Sage |
 | 阵营 Alignment | 中立善良 Neutral Good (NG) |
 | 阵营倾向记录 | 中立 +3、善良 +3、混乱 +5 |
-| 等级 Level | 3 |
-| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 2704 / 2700（已达到 4 级门槛，升级待结算） |
+| 等级 Level | 4 |
+| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 2704 / 6500 |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 小型 Small |
 | 速度 Speed | 30 尺 |
@@ -57,14 +57,14 @@
 
 ### 属性 / Ability Scores
 
-贤者背景可提升：体质、智力、感知。这里选择智力 +2、体质 +1。
+贤者背景可提升：体质、智力、感知。背景选择智力 +2、体质 +1；4 级属性提升选择智力 +1、体质 +1。
 
-| 属性 | 标准数组分配 | 背景加值后 | 调整值 |
+| 属性 | 标准数组分配 | 背景与升级加值后 | 调整值 |
 |---|---:|---:|---:|
 | 力量 STR | 8 | 8 | -1 |
 | 敏捷 DEX | 13 | 13 | +1 |
-| 体质 CON | 14 | 15 | +2 |
-| 智力 INT | 15 | 17 | +3 |
+| 体质 CON | 14 | 16 | +3 |
+| 智力 INT | 15 | 18 | +4 |
 | 感知 WIS | 12 | 12 | +1 |
 | 魅力 CHA | 10 | 10 | +0 |
 
@@ -75,20 +75,20 @@
 | 项目 | 数值 |
 |---|---:|
 | 护甲等级 Armor Class (AC) | 11 / 法师护甲 Mage Armor 后 14 |
-| 生命值上限 Hit Point Maximum | 20 |
-| 生命骰 Hit Dice | 3d6 |
+| 生命值上限 Hit Point Maximum | 30 |
+| 生命骰 Hit Dice | 4d6 |
 | 先攻 Initiative | +1 |
-| 法术豁免难度 Spell Save DC | 13 |
-| 法术攻击加值 Spell Attack Modifier | +5 |
+| 法术豁免难度 Spell Save DC | 14 |
+| 法术攻击加值 Spell Attack Modifier | +6 |
 | 1 环法术位 1st-level Spell Slots | 4 |
-| 2 环法术位 2nd-level Spell Slots | 2 |
-| 准备法术数 Prepared Spells | 6 |
+| 2 环法术位 2nd-level Spell Slots | 3 |
+| 准备法术数 Prepared Spells | 7（当前第 7 个待选择） |
 
 计算：
 
-- HP：6（1 级）+ 体质调整值 2 + 2 ×（固定值 4 + 体质调整值 2）= 20
-- 法术豁免 DC：8 + 熟练加值 2 + 智力调整值 3 = 13
-- 法术攻击：熟练加值 2 + 智力调整值 3 = +5
+- HP：6（1 级）+ 体质调整值 3 + 3 ×（固定值 4 + 体质调整值 3）= 30
+- 法术豁免 DC：8 + 熟练加值 2 + 智力调整值 4 = 14
+- 法术攻击：熟练加值 2 + 智力调整值 4 = +6
 - 法师护甲 Mage Armor 后 AC：13 + 敏捷调整值 1 = 14
 
 ### 豁免 / Saving Throws
@@ -99,8 +99,8 @@
 |---|---:|
 | 力量 Strength (STR) | -1 |
 | 敏捷 Dexterity (DEX) | +1 |
-| 体质 Constitution (CON) | +2 |
-| 智力 Intelligence (INT) | +5 |
+| 体质 Constitution (CON) | +3 |
+| 智力 Intelligence (INT) | +6 |
 | 感知 Wisdom (WIS) | +3 |
 | 魅力 Charisma (CHA) | +0 |
 
@@ -114,11 +114,11 @@
 | 体操 Acrobatics | 敏捷 DEX | 否 No | +1 |
 | 巧手 Sleight of Hand | 敏捷 DEX | 否 No | +1 |
 | 潜行 Stealth | 敏捷 DEX | 否 No | +1 |
-| 奥秘 Arcana | 智力 INT | 专精 Expertise | +7 |
-| 历史 History | 智力 INT | 是 Yes | +5 |
-| 调查 Investigation | 智力 INT | 是 Yes | +5 |
-| 自然 Nature | 智力 INT | 否 No | +3 |
-| 宗教 Religion | 智力 INT | 是 Yes | +5 |
+| 奥秘 Arcana | 智力 INT | 专精 Expertise | +8 |
+| 历史 History | 智力 INT | 是 Yes | +6 |
+| 调查 Investigation | 智力 INT | 是 Yes | +6 |
+| 自然 Nature | 智力 INT | 否 No | +4 |
+| 宗教 Religion | 智力 INT | 是 Yes | +6 |
 | 驯兽 Animal Handling | 感知 WIS | 否 No | +1 |
 | 洞悉 Insight | 感知 WIS | 否 No | +1 |
 | 医药 Medicine | 感知 WIS | 否 No | +1 |
@@ -140,7 +140,8 @@
 | 施法 Spellcasting | 法师 Wizard | 法术位 Spell Slots / 戏法 Cantrips 不限 | 使用智力 Intelligence 施放法师法术 Wizard Spells |
 | 仪式专家 Ritual Adept | 法师 Wizard | 需读取法术书 Spellbook | 法术书中的仪式法术 Ritual Spells 即使未准备，也可作为仪式 Ritual 施放 |
 | 奥术回复 Arcane Recovery | 法师 Wizard | 每次长休 Long Rest 1 次；短休 Short Rest 后使用 | 恢复总环级不超过 2 的已消耗法术位，例如 1 个 2 环位或 2 个 1 环位 |
-| 学者 Scholar | 法师 Wizard | 常驻 Passive | 奥秘 Arcana 获得专精 Expertise，当前奥秘 +7 |
+| 学者 Scholar | 法师 Wizard | 常驻 Passive | 奥秘 Arcana 获得专精 Expertise，当前奥秘 +8 |
+| 属性提升 Ability Score Improvement | 法师 Wizard 4 | 常驻 Passive | 选择智力 +1、体质 +1；智力 18、体质 16 |
 | 预言专家 Divination Savant | 预言法师 Diviner | 常驻 Passive | 3 级免费加入 2 个不高于 2 环的预言法术；以后首次获得新环级法术位时，再免费加入 1 个可施放环级的预言法术 |
 | 预兆 Portent | 预言法师 Diviner | 每次长休后掷 2d20 并分别使用一次；每个回合 Turn 最多替换一次 | 在自己或一个你能看见的生物进行 d20 检定前，用一个预先记录的结果替代该次骰值；DM 允许本次升级后立即生成 |
 | 黑暗视觉 Darkvision | 岩侏儒 Rock Gnome | 常驻 Passive | 60 尺黑暗视觉 Darkvision |
@@ -161,9 +162,11 @@
 | 次级幻影 Minor Illusion | 魔法启蒙 Magic Initiate | 制造声音或图像，侦查和误导 |
 | 传讯术 Message | 魔法启蒙 Magic Initiate | 远距离低声沟通 |
 
+法师本职戏法位现为 4 个；4 级新增的 1 个法师戏法待选择。
+
 ## 当前已准备法术 / Current Prepared Spells
 
-2024 法师 Wizard 3 级准备法术上限为 6 个。护盾术 Shield 来自魔法启蒙 Magic Initiate，始终可用，不占法师准备法术名额。本次长休后已重选以下 6 个法师准备法术。
+2024 法师 Wizard 4 级准备法术上限为 7 个。护盾术 Shield 来自魔法启蒙 Magic Initiate，始终可用，不占法师准备法术名额。当前已有 6 个准备法术；第 7 个待从法术书中选择。
 
 | 法术 Spell | 来源 Source | 使用方式 Casting | 专注 / 仪式 Concentration / Ritual | 用途 Effect |
 |---|---|---|---|---|
@@ -177,7 +180,7 @@
 
 ## 当前法术书 / Current Spellbook
 
-法术书原有 8 个 1 环法术。升到 3 级时，按团桌裁定加入 2 个普通法师法术和 2 个预言法术；目前共收录 12 个法术，其中 8 个为 1 环、4 个为 2 环。
+法术书原有 8 个 1 环法术。升到 3 级时，按团桌裁定加入 2 个普通法师法术和 2 个预言法术；目前已确认收录 12 个法术，其中 8 个为 1 环、4 个为 2 环。4 级将新增 2 个 1 或 2 环法师法术，具体选择待定。
 
 | 法术 Spell | 已准备 Prepared | 仪式 Ritual | 用途 Effect |
 |---|---|---|---|
@@ -194,7 +197,7 @@
 | 占卜术 Augury | 否 No | 是 Yes | 预测未来 30 分钟内某项行动结果的大致吉凶；DM 裁定只要持有金币即可施放，不需额外准备道具。本次已以仪式施放并得到凶兆 Woe |
 | 侦测思想 Detect Thoughts | 是 Yes | 否 No | 感知附近思想并读取目标当前最显著的想法；深入探查可能触发豁免并暴露施法 |
 
-## 3 级行动习惯 / Level 3 Play Routine
+## 4 级行动习惯 / Level 4 Play Routine
 
 - 战斗前如果可能，先施放法师护甲 Mage Armor。
 - 战斗中保持距离，不要站在前排。
@@ -467,6 +470,7 @@
 | 第 4 天早晨 | 掷出预兆骰并施放法师护甲 Mage Armor | 预兆骰为 11、6，均未使用；消耗 1 个 1 环法术位，当前 3 / 4；8 小时内 AC 为 14 |
 | 第 4 天，具体时段未记录 | 获得经验 | XP +75，总 XP 2504 |
 | 第 4 天，具体时段未记录 | 获得经验并达到 4 级门槛 | XP +200，总 XP 2704；等级与新增能力待结算 |
+| 第 4 天，具体时段未记录 | 结算法师 4 级属性、生命与环位 | 选择属性提升：智力 17 -> 18、体质 15 -> 16；HP 上限升至 30，沿用既有 DM 裁定回满至 30 / 30；生命骰为 4d6；法术位上限为 1 环 4、2 环 3。法术书新增法术、戏法与第 7 个准备法术待选择 |
 
 ## 已确认项
 
