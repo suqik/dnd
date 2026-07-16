@@ -49,7 +49,7 @@
 | 阵营 Alignment | 中立善良 Neutral Good (NG) |
 | 阵营倾向记录 | 中立 +3、善良 +3、混乱 +5 |
 | 等级 Level | 4 |
-| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 3179 / 6500 |
+| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 3279 / 6500 |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 小型 Small |
 | 速度 Speed | 30 尺 |
@@ -487,6 +487,7 @@
 | 第 4 天，具体时段未记录 | 获得经验 | XP +10，总 XP 2979 |
 | 第 4 天，具体时段未记录 | 获得经验 | XP +200，总 XP 3179 |
 | 第 4 天，具体时段未记录 | 获得烈焰长枪戒指 Flame Lance Ring | 内储烈焰长枪 Flame Lance；攻击检定固定 +5，命中造成 4d10 + 3 火焰伤害，并由 Nym 的使用引起 1d10 火焰伤害的点燃效果 |
+| 第 4 天，具体时段未记录 | 获得经验 | XP +100，总 XP 3279 |
 
 ## 已确认项
 
