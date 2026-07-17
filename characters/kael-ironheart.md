@@ -4,22 +4,22 @@
 
 | 项目 | 当前值 |
 |---|---|
-| 游戏内日期 In-game Day | 第 2 天 |
-| 当前地点 Current Location | 东北城外，河边小树林短休中 |
-| 等级 Level | 3 |
-| 当前经验 / 升级所需经验 Current XP / XP Needed | 1521 / 2700（尚需 1179 XP） |
-| 当前生命值 Hit Points (HP) | 28 / 34 |
+| 游戏内日期 In-game Day | 第 4 天 |
+| 当前地点 Current Location | 观星塔返回途中 |
+| 等级 Level | 4 |
+| 当前经验 / 升级所需经验 Current XP / XP Needed | 3841 / 6500（尚需 2659 XP） |
+| 当前生命值 Hit Points (HP) | 25 / 44 |
 | 临时生命值 Temporary Hit Points | 0 |
 | 护甲等级 Armor Class (AC) | 16（链甲 Chain Mail） |
 | 被动察觉 Passive Perception | 11 |
-| 生命骰 Hit Dice | 3d10，剩余 3 / 3 |
-| 回气 Second Wind | 1 / 2 |
+| 生命骰 Hit Dice | 3d10，剩余 3 / 4 |
+| 回气 Second Wind | 0 / 2 |
 | 动作如潮 Action Surge | 0 / 1 |
 | 英雄激励 Heroic Inspiration | 0 / 1 |
-| 卓越骰 Superiority Dice | 4d8，剩余 2 / 4 |
+| 卓越骰 Superiority Dice | 4d8，剩余 1 / 4 |
 | 当前异常状态 Conditions | 未记录 |
 | 死亡豁免 Death Saving Throws | 成功 0 / 失败 0 |
-| 弓箭 Arrows | 19 / 20 |
+| 弓箭 Arrows | 18 / 20 |
 | 标枪 Javelins | 8 / 8 |
 | 匕首 Daggers | 1 / 1 |
 | 医疗工具包 Healer's Kit | 10 / 10 次 |
@@ -47,9 +47,9 @@
 | 子职 Subclass | 战斗大师 Battle Master（3 级选择） |
 | 背景 Background | 士兵 Soldier |
 | 阵营 Alignment | 守序善良 Lawful Good (LG) |
-| 阵营倾向记录 | 中立 +1，混乱 +3，善良 +1 |
-| 等级 Level | 3 |
-| 当前经验 / 下一级所需经验 Current XP / Next Level XP | 1521 / 2700（尚需 1179 XP） |
+| 阵营倾向记录 | 中立 +1，混乱 +2，善良 +2 |
+| 等级 Level | 4 |
+| 当前经验 / 下一级所需经验 Current XP / Next Level XP | 3841 / 6500（尚需 2659 XP） |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 中型 Medium |
 | 速度 Speed | 30 尺 |
@@ -62,7 +62,7 @@
 
 | 属性 | 最终值 | 调整值 |
 |---|---:|---:|
-| 力量 STR | 17 | +3 |
+| 力量 STR | 19 | +4 |
 | 敏捷 DEX | 14 | +2 |
 | 体质 CON | 14 | +2 |
 | 智力 INT | 10 | +0 |
@@ -74,8 +74,8 @@
 | 项目 | 数值 |
 |---|---:|
 | 护甲等级 Armor Class (AC) | 16（链甲 Chain Mail） |
-| 最大生命值 Maximum Hit Points | 34 |
-| 生命骰 Hit Dice | 3d10 |
+| 最大生命值 Maximum Hit Points | 44 |
+| 生命骰 Hit Dice | 4d10 |
 | 先攻 Initiative | +2 |
 | 速度 Speed | 30 尺 |
 | 被动察觉 Passive Perception | 11（10 + 感知调整值 1，不计察觉技能熟练） |
@@ -108,7 +108,7 @@
 
 | 技能 Skill | 属性 Ability | 熟练 Proficiency | 当前加值 Modifier |
 |---|---|---|---:|
-| 运动 Athletics | 力量 STR | 是 Yes | +5 |
+| 运动 Athletics | 力量 STR | 是 Yes | +6 |
 | 体操 Acrobatics | 敏捷 DEX | 是 Yes | +4 |
 | 巧手 Sleight of Hand | 敏捷 DEX | 否 No | +2 |
 | 潜行 Stealth | 敏捷 DEX | 否 No | +2 |
@@ -171,18 +171,19 @@
 
 | 武器 Weapon | 命中 Attack | 伤害 Damage | 属性 Properties / Notes |
 |---|---:|---|---|
-| +1 巨剑 +1 Greatsword | +6 | 2d6 + 4 挥砍 Slashing | 魔法武器 Magic Weapon、双手 Two-Handed、重型 Heavy；精通：擦掠 Graze |
-| 巨剑 Greatsword | +5 | 2d6 + 3 挥砍 Slashing | 双手 Two-Handed、重型 Heavy；精通：擦掠 Graze |
-| 连枷 Flail | +5 | 1d8 + 3 钝击 Bludgeoning | 单手；精通：削弱 Sap |
-| 标枪 Javelin | +5 | 1d6 + 3 穿刺 Piercing | 投掷 30/120 尺；精通：减速 Slow |
-| 匕首 Dagger | +5（力量）或 +4（敏捷） | 1d4 + 3 或 1d4 + 2 穿刺 Piercing | 轻型 Light、投掷 20/60 尺 |
-| 矛 Spear | +5 | 1d6 + 3；双手 1d8 + 3 穿刺 Piercing | 多用 Versatile、投掷 20/60 尺 |
+| +1 巨剑 Greatsword | +7 | 2d6 + 5 挥砍 Slashing | 魔法武器 Magic Weapon、双手 Two-Handed、重型 Heavy；精通：擦掠 Graze |
+| 巨剑 Greatsword | +6 | 2d6 + 4 挥砍 Slashing | 双手 Two-Handed、重型 Heavy；精通：擦掠 Graze |
+| 连枷 Flail | +5 | 1d8 + 4 钝击 Bludgeoning | 单手；精通：削弱 Sap |
+| 标枪 Javelin | +5 | 1d6 + 4 穿刺 Piercing | 投掷 30/120 尺；精通：减速 Slow |
+| 匕首 Dagger | +6（力量）或 +4（敏捷） | 1d4 + 4 或 1d4 + 2 穿刺 Piercing | 轻型 Light、投掷 20/60 尺 |
+| 矛 Spear | +5 | 1d6 + 4；双手 1d8 + 4 穿刺 Piercing | 多用 Versatile、投掷 20/60 尺 |
 | 短弓 Shortbow | +4 | 1d6 + 2 穿刺 Piercing | 双手 Two-Handed、远程 80/320 尺 |
-| 徒手打击 Unarmed Strike | +5 | 4 钝击 Bludgeoning | 单手 |
+| 长弓 Longbow | +4 | 1d8 + 2 穿刺 Piercing | 双手 Two-Handed、远程 150/600 尺 |
+| 徒手打击 Unarmed Strike | +6 | 4 钝击 Bludgeoning | 单手 |
 
 ### 当前武器精通 / Current Weapon Masteries
 
-- 巨剑 · 擦掠 Graze：攻击未命中时，仍对目标造成力量调整值（+3）点挥砍伤害，无须再次进行攻击检定。
+- 巨剑 · 擦掠 Graze：攻击未命中时，仍对目标造成力量调整值（+4）点挥砍伤害，无须再次进行攻击检定。
 - 标枪 · 减速 Slow：攻击命中后，目标速度减少 10 尺，直到凯恩下一回合开始前。
 - 连枷 · 削弱 Sap：攻击命中后，目标下一次攻击检定具有劣势，直到凯恩下一回合开始前。
 
@@ -212,10 +213,12 @@
 | 标枪 Javelin | 8 | 当前 8 / 8；投掷武器，精通减速 Slow |
 | 矛 Spear | 1 | 多用、投掷武器 |
 | 短弓 Shortbow | 1 | 远程武器 |
-| 箭 Arrows | 19 | 当前 19 / 20 |
+| 长弓 Longbow | 1 | 远程武器 |
+| 箭 Arrows | 18 | 当前 18 / 20 |
 | 箭袋 Quiver | 1 | 收纳箭矢 |
 | 匕首 Dagger | 1 | 当前 1 / 1；轻型、投掷武器 |
 | 长剑 Longsword | 1 | 备用近战武器 |
+| 短剑 Shortsword | 1 | 备用近战武器 |
 
 ### 护具与杂项 / Armor and Other Gear
 
@@ -227,10 +230,8 @@
 | 骰子 Gaming Set (Dice) | 1 | 工具熟练 |
 | 旅行者服装 Traveler's Clothes | 1 套 | 日常服装 |
 | 大肚教传单 | 1 | 剧情物品 |
-| 破损的重甲 | 1 | 战利品/剧情物品 |
-| 小血瓶 | 1 | 消耗品 |
-| 信号弹 | 1 | 消耗品 |
-| 金币 Gold Pieces | 54 gp | 当前持有 |
+| 神莓果 | 1 | 剧情物品 |
+| 金币 Gold Pieces | 126 gp | 当前持有 |
 | 银币 Silver Pieces | 1 sp | 当前持有 |
 
 ## 角色概念 / Character Concept
